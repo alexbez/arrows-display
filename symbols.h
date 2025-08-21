@@ -1,4 +1,7 @@
 // arrows.h
+// Copyright 2025 by Alexander Bezprozvanny
+// Apache 2.0 license
+//
 #ifndef __SYMBOLS_H
 #define __SYMBOLS_H
 
@@ -208,5 +211,6 @@ const uint8_t question[32] = {
   0b00000001, 0b10000000, // 14
   0b00000001, 0b10000000  // 15
 };
+
 
 #endif // __SYMBOLS_H
